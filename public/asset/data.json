@@ -1,0 +1,1303 @@
+[
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 1",
+      "ItemPrice": "450.00",
+      "Rating": 4,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_1.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 2",
+      "ItemPrice": "443.00",
+      "Rating": 2,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_1.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 3",
+      "ItemPrice": "62.00",
+      "Rating": 4,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_2.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 4",
+      "ItemPrice": "346.00",
+      "Rating": 2,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_2.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 5",
+      "ItemPrice": "391.00",
+      "Rating": 2,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_3.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 6",
+      "ItemPrice": "341.00",
+      "Rating": 2,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_3.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 7",
+      "ItemPrice": "452.00",
+      "Rating": 1,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_4.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 8",
+      "ItemPrice": "115.00",
+      "Rating": 1,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_4.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 9",
+      "ItemPrice": "281.00",
+      "Rating": 3,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_5.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 10",
+      "ItemPrice": "409.00",
+      "Rating": 1,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_5.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 11",
+      "ItemPrice": "171.00",
+      "Rating": 3,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_6.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 12",
+      "ItemPrice": "139.00",
+      "Rating": 1,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_6.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 13",
+      "ItemPrice": "445.00",
+      "Rating": 2,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_7.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 14",
+      "ItemPrice": "432.00",
+      "Rating": 4,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_7.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 15",
+      "ItemPrice": "381.00",
+      "Rating": 1,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_8.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 16",
+      "ItemPrice": "108.00",
+      "Rating": 2,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_8.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 17",
+      "ItemPrice": "321.00",
+      "Rating": 5,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_9.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 18",
+      "ItemPrice": "357.00",
+      "Rating": 1,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_9.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 19",
+      "ItemPrice": "377.00",
+      "Rating": 1,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_10.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 20",
+      "ItemPrice": "172.00",
+      "Rating": 2,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_10.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 21",
+      "ItemPrice": "173.00",
+      "Rating": 1,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_11.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 22",
+      "ItemPrice": "156.00",
+      "Rating": 3,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_11.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 23",
+      "ItemPrice": "129.00",
+      "Rating": 4,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_12.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 24",
+      "ItemPrice": "485.00",
+      "Rating": 3,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_12.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 25",
+      "ItemPrice": "459.00",
+      "Rating": 2,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_13.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 26",
+      "ItemPrice": "259.00",
+      "Rating": 5,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_13.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 27",
+      "ItemPrice": "484.00",
+      "Rating": 1,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_14.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 28",
+      "ItemPrice": "429.00",
+      "Rating": 4,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_14.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 29",
+      "ItemPrice": "140.00",
+      "Rating": 1,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_15.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 30",
+      "ItemPrice": "433.00",
+      "Rating": 3,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_15.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 31",
+      "ItemPrice": "421.00",
+      "Rating": 5,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_16.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 32",
+      "ItemPrice": "374.00",
+      "Rating": 5,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_16.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 33",
+      "ItemPrice": "399.00",
+      "Rating": 2,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_17.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 34",
+      "ItemPrice": "158.00",
+      "Rating": 3,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_17.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 35",
+      "ItemPrice": "96.00",
+      "Rating": 3,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_18.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 36",
+      "ItemPrice": "390.00",
+      "Rating": 4,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_18.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 37",
+      "ItemPrice": "119.00",
+      "Rating": 2,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_19.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 38",
+      "ItemPrice": "499.00",
+      "Rating": 3,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_19.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 39",
+      "ItemPrice": "323.00",
+      "Rating": 4,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_20.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 40",
+      "ItemPrice": "73.00",
+      "Rating": 2,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_20.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 41",
+      "ItemPrice": "423.00",
+      "Rating": 5,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_21.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 42",
+      "ItemPrice": "159.00",
+      "Rating": 2,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_21.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 43",
+      "ItemPrice": "479.00",
+      "Rating": 3,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_22.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 44",
+      "ItemPrice": "303.00",
+      "Rating": 5,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_22.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 45",
+      "ItemPrice": "158.00",
+      "Rating": 3,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_23.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 46",
+      "ItemPrice": "219.00",
+      "Rating": 5,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_23.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 47",
+      "ItemPrice": "122.00",
+      "Rating": 2,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_24.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 48",
+      "ItemPrice": "472.00",
+      "Rating": 4,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_24.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 49",
+      "ItemPrice": "426.00",
+      "Rating": 4,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_25.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 50",
+      "ItemPrice": "81.00",
+      "Rating": 2,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_25.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 51",
+      "ItemPrice": "480.00",
+      "Rating": 5,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_26.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 52",
+      "ItemPrice": "292.00",
+      "Rating": 4,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_26.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 53",
+      "ItemPrice": "195.00",
+      "Rating": 3,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_27.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 54",
+      "ItemPrice": "205.00",
+      "Rating": 3,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_27.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 55",
+      "ItemPrice": "190.00",
+      "Rating": 4,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_28.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 56",
+      "ItemPrice": "153.00",
+      "Rating": 4,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_28.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 57",
+      "ItemPrice": "473.00",
+      "Rating": 2,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_29.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 58",
+      "ItemPrice": "128.00",
+      "Rating": 3,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_29.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "VG_02",
+      "ItemName": "Item 59",
+      "ItemPrice": "275.00",
+      "Rating": 2,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/veg/item_30.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "FOOD_01",
+      "SubType": "NV_01",
+      "ItemName": "Item 60",
+      "ItemPrice": "107.00",
+      "Rating": 2,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula.",
+      "CardImgSrc": "/asset/food_images/nonVeg/item_30.jpg",
+      "ModalData": {
+        "ItemIngredients": [
+          "Item Ingredients 1.",
+          "Item Ingredients 2.",
+          "Item Ingredients 3.",
+          "Item Ingredients 4.",
+          "Item Ingredients 5."
+        ]
+      }
+    },
+    {
+      "Type": "EMP_01",
+      "SubType": "CoF_01",
+      "EmpName": "Employee 1",
+      "CardImgSrc": "/asset/employee_images/emp_1.jpg",
+      "ModalData": {
+        "EmpDesignation": "Co-Founder 1",
+        "Contribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula."
+      }
+    },
+    {
+      "Type": "EMP_01",
+      "SubType": "CoF_01",
+      "EmpName": "Employee 2",
+      "CardImgSrc": "/asset/employee_images/emp_2.jpg",
+      "ModalData": {
+        "EmpDesignation": "Co-Founder 2",
+        "Contribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula."
+      }
+    },
+    {
+      "Type": "EMP_01",
+      "SubType": "DIR_02",
+      "EmpName": "Employee 1",
+      "CardImgSrc": "/asset/employee_images/emp_3.jpg",
+      "ModalData": {
+        "EmpDesignation": "Director 1",
+        "Contribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula."
+      }
+    },
+    {
+      "Type": "EMP_01",
+      "SubType": "DIR_02",
+      "EmpName": "Employee 2",
+      "CardImgSrc": "/asset/employee_images/emp_4.jpg",
+      "ModalData": {
+        "EmpDesignation": "Director 2",
+        "Contribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula."
+      }
+    },
+    {
+      "Type": "EMP_01",
+      "SubType": "DIR_02",
+      "EmpName": "Employee 3",
+      "CardImgSrc": "/asset/employee_images/emp_5.jpg",
+      "ModalData": {
+        "EmpDesignation": "Director 3",
+        "Contribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula."
+      }
+    },
+    {
+      "Type": "EMP_01",
+      "SubType": "DIR_02",
+      "EmpName": "Employee 4",
+      "CardImgSrc": "/asset/employee_images/emp_6.jpg",
+      "ModalData": {
+        "EmpDesignation": "Director 4",
+        "Contribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula."
+      }
+    },
+    {
+      "Type": "EMP_01",
+      "SubType": "DIR_02",
+      "EmpName": "Employee 5",
+      "CardImgSrc": "/asset/employee_images/emp_7.jpg",
+      "ModalData": {
+        "EmpDesignation": "Director 5",
+        "Contribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula."
+      }
+    },
+    {
+      "Type": "EMP_01",
+      "SubType": "EMP_03",
+      "EmpName": "Employee 1",
+      "CardImgSrc": "/asset/employee_images/emp_8.jpg",
+      "ModalData": {
+        "EmpDesignation": "Associate 1",
+        "Contribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula."
+      }
+    },
+    {
+      "Type": "EMP_01",
+      "SubType": "EMP_03",
+      "EmpName": "Employee 2",
+      "CardImgSrc": "/asset/employee_images/emp_9.jpg",
+      "ModalData": {
+        "EmpDesignation": "Associate 2",
+        "Contribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula."
+      }
+    },
+    {
+      "Type": "EMP_01",
+      "SubType": "EMP_03",
+      "EmpName": "Employee 3",
+      "CardImgSrc": "/asset/employee_images/emp_10.jpg",
+      "ModalData": {
+        "EmpDesignation": "Associate 3",
+        "Contribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula."
+      }
+    },
+    {
+      "Type": "EMP_01",
+      "SubType": "EMP_03",
+      "EmpName": "Employee 4",
+      "CardImgSrc": "/asset/employee_images/emp_11.jpg",
+      "ModalData": {
+        "EmpDesignation": "Associate 4",
+        "Contribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula."
+      }
+    },
+    {
+      "Type": "EMP_01",
+      "SubType": "EMP_03",
+      "EmpName": "Employee 5",
+      "CardImgSrc": "/asset/employee_images/emp_12.jpg",
+      "ModalData": {
+        "EmpDesignation": "Associate 5",
+        "Contribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula."
+      }
+    },
+    {
+      "Type": "EMP_01",
+      "SubType": "EMP_03",
+      "EmpName": "Employee 6",
+      "CardImgSrc": "/asset/employee_images/emp_13.jpg",
+      "ModalData": {
+        "EmpDesignation": "Associate 6",
+        "Contribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula."
+      }
+    },
+    {
+      "Type": "EMP_01",
+      "SubType": "EMP_03",
+      "EmpName": "Employee 7",
+      "CardImgSrc": "/asset/employee_images/emp_14.jpg",
+      "ModalData": {
+        "EmpDesignation": "Associate 7",
+        "Contribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula."
+      }
+    },
+    {
+      "Type": "EMP_01",
+      "SubType": "EMP_03",
+      "EmpName": "Employee 8",
+      "CardImgSrc": "/asset/employee_images/emp_15.jpg",
+      "ModalData": {
+        "EmpDesignation": "Associate 8",
+        "Contribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula."
+      }
+    },
+    {
+      "Type": "EMP_01",
+      "SubType": "EMP_03",
+      "EmpName": "Employee 9",
+      "CardImgSrc": "/asset/employee_images/emp_16.jpg",
+      "ModalData": {
+        "EmpDesignation": "Associate 9",
+        "Contribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula."
+      }
+    },
+    {
+      "Type": "EMP_01",
+      "SubType": "EMP_03",
+      "EmpName": "Employee 10",
+      "CardImgSrc": "/asset/employee_images/emp_17.jpg",
+      "ModalData": {
+        "EmpDesignation": "Associate 10",
+        "Contribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula."
+      }
+    },
+    {
+      "Type": "EMP_01",
+      "SubType": "EMP_03",
+      "EmpName": "Employee 11",
+      "CardImgSrc": "/asset/employee_images/emp_18.jpg",
+      "ModalData": {
+        "EmpDesignation": "Associate 11",
+        "Contribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula."
+      }
+    },
+    {
+      "Type": "EMP_01",
+      "SubType": "EMP_03",
+      "EmpName": "Employee 12",
+      "CardImgSrc": "/asset/employee_images/emp_19.jpg",
+      "ModalData": {
+        "EmpDesignation": "Associate 12",
+        "Contribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula."
+      }
+    },
+    {
+      "Type": "EMP_01",
+      "SubType": "EMP_03",
+      "EmpName": "Employee 13",
+      "CardImgSrc": "/asset/employee_images/emp_20.jpg",
+      "ModalData": {
+        "EmpDesignation": "Associate 13",
+        "Contribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula."
+      }
+    },
+    {
+      "Type": "EMP_01",
+      "SubType": "EMP_03",
+      "EmpName": "Employee 14",
+      "CardImgSrc": "/asset/employee_images/emp_21.jpg",
+      "ModalData": {
+        "EmpDesignation": "Associate 14",
+        "Contribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula."
+      }
+    },
+    {
+      "Type": "EMP_01",
+      "SubType": "EMP_03",
+      "EmpName": "Employee 15",
+      "CardImgSrc": "/asset/employee_images/emp_22.jpg",
+      "ModalData": {
+        "EmpDesignation": "Associate 15",
+        "Contribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce leo velit, pretium rhoncus tempor in, dapibus sit amet ligula."
+      }
+    }
+  ]
+  
