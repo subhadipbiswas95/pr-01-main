@@ -1,7 +1,5 @@
 import React from 'react'
-import Food_card from "../CommonComponents/Cards/Food_card";
-// import React, { useEffect } from "react";
-
+import Food_Card from "../CommonComponents/Cards/Food_Card";
 /*
 *****ALGORITHM******
 
@@ -21,20 +19,13 @@ STEP 3: RETURN THE CARD LIST TO HOME
             )
 
 */
-
 const CardGroup = (props) => {
-  const Food_data=props.data
-
-console.log("foodlist ",Food_data);
-const cardList=()=>{
-  Food_data.map((item)=>{
-     <Food_card cardData={item}/>
-    })
-}
-return(
-  <>
-  {cardList}
-  </>
-)
+return (
+    <div className='row justify-content-center'>
+      {
+        props.data.map((item) => <Food_Card item={item} />)
+      }
+    </div>
+  )
 }
 export default CardGroup

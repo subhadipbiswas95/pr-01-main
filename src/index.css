@@ -11,3 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.customcardPadding{
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
