@@ -15,3 +15,16 @@ code {
   padding-right: 0 !important;
   padding-left: 0 !important;
 }
+.customFontSize{
+  font-size: 0.9rem !important;
+  font-family: ui-serif;
+}
+
+.card-title{
+  margin-bottom: 1.1rem !important;
+}
+
+.textJustify{
+  text-align: justify;
+  text-justify: inter-word;
+}

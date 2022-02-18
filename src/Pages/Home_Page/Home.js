@@ -25,10 +25,10 @@ export default class Home extends Component {
     }
   }
   componentDidMount() {
+    //Api call
     axios
       .get("http://localhost:3000/asset/data.json")
       .then((res) => {
-        //  console.log(res);
         this.setState({ post: res.data.filter((item) => item.Type === 'FOOD_01') });
 
       })
@@ -37,7 +37,6 @@ export default class Home extends Component {
     return (
       <div>
         <Toggle />
-
         {
           this.state.post.length > 0 &&
           <CardGroup data={this.state.post} />
