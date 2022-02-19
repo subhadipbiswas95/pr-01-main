@@ -105,7 +105,9 @@ export default class Home extends Component {
     super(props)
 
     this.state = {
-      post: []
+      post: [],
+      filteredItems: [],
+
     }
   }
   componentDidMount() {
@@ -115,15 +117,30 @@ export default class Home extends Component {
       .then((res) => {
         this.setState({ post: res.data.filter((item) => item.Type === 'FOOD_01') });
 
+        this.setState({ filteredItems: this.state.post })
       })
+
+
+
   }
+  filterFoodItem = (toggleValue) => {
+    if (toggleValue === false) {
+      var tempfilteredItems = this.state.post.filter((items) => items.SubType === "VG_02")
+      this.setState({ filteredItems: tempfilteredItems })
+    }
+    else {
+      this.setState({ filteredItems: this.state.post })
+    }
+  }
+
+
   render() {
     return (
       <div>
-        <Toggle />
+        <Toggle filterFoodItem={this.filterFoodItem} />
         {
-          this.state.post.length > 0 &&
-          <CardGroup data={this.state.post} />
+          this.state.filteredItems.length > 0 &&
+          <CardGroup data={this.state.filteredItems} />
         }
       </div>
     )

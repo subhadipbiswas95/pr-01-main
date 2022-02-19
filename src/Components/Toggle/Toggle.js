@@ -3,10 +3,11 @@ import Switch from "react-switch";
 
 
 
-const Toggle = () => {
-    const [checked, setChecked] = useState(false);
+const Toggle = (props) => {
+    const [checked, setChecked] = useState(true);
     const handleChange = (nextChecked) => {
         setChecked(nextChecked);
+        props.filterFoodItem(checked);
     };
     return (
         <div className="row mt-3 mb-2 toggleSwitchSpcing">
