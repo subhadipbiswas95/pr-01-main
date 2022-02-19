@@ -3,6 +3,9 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
+    width: 100% !important;
+    max-width: 100% !important;
+    overflow-x:hidden;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -17,7 +20,7 @@ code {
 }
 .customFontSize{
   font-size: 0.9rem !important;
-  font-family: ui-serif;
+  font-family: var(--bs-body-font-family) !important;
 }
 
 .card-title{
@@ -27,4 +30,30 @@ code {
 .textJustify{
   text-align: justify;
   text-justify: inter-word;
+}
+.toggleSwitchSpcing{
+  margin-left: 1.7rem !important;
+  width: 100% !important;
+}
+
+.toggleSwitchSpcing-1{
+  margin-right:10px !important;
+  font-size: 0.8rem !important;
+  font-family: var(--bs-body-font-family) !important;
+}
+.toggleSwitchSpcing-2{
+  margin-left:10px !important;
+  font-size: 0.8rem !important;
+  font-family: var(--bs-body-font-family) !important;
+}
+.react-switch{
+  vertical-align: middle !important;
+}
+.text-muted{
+  color: #36383a;
+  font-size: .85rem;
+}
+.material-switch {
+ width: 12% !important;
+ max-width: 12% !important;
 }
