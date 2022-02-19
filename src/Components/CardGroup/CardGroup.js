@@ -1,5 +1,5 @@
 import React from 'react'
-import Food_Card from "../CommonComponents/Cards/Food_Card";
+import Food_Card from '../CommonComponents/Cards/Food_card'
 /*
 *****ALGORITHM******
 
