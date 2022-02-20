@@ -64,5 +64,28 @@ border: 0px !important;
   height: 180px!important;
 }
 .react-responsive-modal-modal{
-  max-width: 1000px;
+  width: 550px !important;
+}
+
+.modal_content{
+  padding: 0rem !important;
+  padding-left: 1.5rem !important;
+}
+
+.react-responsive-modal-closeButton {
+  top: 15px !important;
+  right: 15px !important;
+}
+
+.rounded-start{
+  border-bottom-left-radius: 0rem !important;
+  border-top-left-radius: 0rem !important;
+  border-radius: 0.25rem !important;
+}
+
+.margin_start{
+  margin-inline-start: 0px !important;
+}
+.title_margin_bottom{
+  margin-bottom: 0.6rem !important;
 }
