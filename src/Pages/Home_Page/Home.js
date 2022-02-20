@@ -99,6 +99,7 @@ import axios from 'axios';
 import React, { Component } from 'react'
 import Toggle from '../../Components/Toggle/Toggle'
 import CardGroup from '../../Components/CardGroup/CardGroup';
+import ModalComp from '../../Components/CommonComponents/Modal/Modal';
 
 export default class Home extends Component {
   constructor(props) {
@@ -123,6 +124,7 @@ export default class Home extends Component {
 
 
   }
+  //Toggle button logic(Veg/All)
   filterFoodItem = (toggleValue) => {
     if (toggleValue === false) {
       var tempfilteredItems = this.state.post.filter((items) => items.SubType === "VG_02")
@@ -142,6 +144,7 @@ export default class Home extends Component {
           this.state.filteredItems.length > 0 &&
           <CardGroup data={this.state.filteredItems} />
         }
+        <ModalComp/>
       </div>
     )
   }

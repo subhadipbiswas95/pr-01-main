@@ -1,7 +1,6 @@
 import React from "react";
 
 const Food_Card = (props) => {
-  // console.log("dta", props.item);
   return (
     <div className="card m-2 customcardPadding" style={{ width: '18rem' }}>
       <img src={props.item.CardImgSrc} className="card-img-top" alt="..." />

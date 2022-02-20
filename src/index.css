@@ -57,3 +57,12 @@ code {
  width: 12% !important;
  max-width: 12% !important;
 }
+.remove_Border_modal{
+border: 0px !important;
+}
+.modal_img_size{
+  height: 180px!important;
+}
+.react-responsive-modal-modal{
+  max-width: 1000px;
+}
