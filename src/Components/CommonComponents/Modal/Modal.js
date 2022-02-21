@@ -14,7 +14,7 @@ const ModalComp = (props) => {
 
     const onCloseModal = () => {
         setOpen(false);
-        props.close();
+        props.close(open);
     }
         return (
         

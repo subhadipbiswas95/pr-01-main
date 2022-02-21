@@ -3,11 +3,14 @@ import ModalComp from "../Modal/Modal";
 
 const Food_Card = (props) => {
   const[openmodal,setOpenmodal]=useState(false)
-  const close=()=>{
-    setOpenmodal(false);
+  const onOpen = () =>{
+    setOpenmodal(true)
+  }
+  const close=(flag)=>{
+    setOpenmodal(flag);
   }
   return (
-    <div className="card m-2 customcardPadding" style={{ width: '18rem' }} onClick={()=>setOpenmodal(true)}>
+    <div className="card m-2 customcardPadding" style={{ width: '18rem', cursor:'pointer' }} onClick={onOpen}>
       {openmodal==true&&<ModalComp openmodal={openmodal} close={close} imgPath={props.item.CardImgSrc} 
       ingredients={props.item.ModalData.ItemIngredients}/>}
       <img src={props.item.CardImgSrc} className="card-img-top" alt="..." />

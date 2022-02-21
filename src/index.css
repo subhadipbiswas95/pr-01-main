@@ -89,3 +89,11 @@ border: 0px !important;
 .title_margin_bottom{
   margin-bottom: 0.6rem !important;
 }
+.navbar-collapse {
+  justify-content: space-around !important;
+}
+
+.nav-link{
+  margin-right: 10px !important;
+  margin-left: 10px !important;
+}
