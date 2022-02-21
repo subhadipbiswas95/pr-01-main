@@ -1,23 +1,22 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import 'react-responsive-modal/styles.css';
 import { Modal } from 'react-responsive-modal';
 
 
 
-const ModalComp = () => {
-    const [open, setOpen] = useState(true);
-    const [ingredients] = useState([
-        'Ingredient 1',
-        'Ingredient 2',
-        'Ingredient 3',
-        'Ingredient 4',
-        'Ingredient 5',
-    ])
+const ModalComp = (props) => {
+    const [open, setOpen] = useState(false);
 
-    // const onOpenModal = () => setOpen(true);
-    const onCloseModal = () => setOpen(false);
     
-    return (
+    useEffect(()=>{
+    setOpen(props.openmodal)
+    },[])
+
+    const onCloseModal = () => {
+        setOpen(false);
+        props.close();
+    }
+        return (
         
         <div>
             {/* <button onClick={onOpenModal}>Open modal</button> */}
@@ -25,13 +24,13 @@ const ModalComp = () => {
                 <div className="card  remove_Border_modal" style={{ 'max-width': '540px' }}>
                     <div className="row g-0">
                         <div className="col-md-6 align-self-center">
-                            <img src="./asset/food_images/nonVeg/item_1.jpg" className="img-fluid rounded-start modal_img_size" alt="pic" />
+                            <img src={props.imgPath} className="img-fluid rounded-start modal_img_size" alt="pic" />
                         </div>
                         <div className="col-md-6">
                             <div className="card-body modal_content">
                                 <h4 className="card-title title_margin_bottom">Ingredients</h4>
                                 {
-                                    ingredients.map((item)=>{
+                                    props.ingredients.map((item)=>{
                                         // ingred(item)
                                         return(
                                             <div className='row margin_start'>

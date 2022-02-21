@@ -99,7 +99,6 @@ import axios from 'axios';
 import React, { Component } from 'react'
 import Toggle from '../../Components/Toggle/Toggle'
 import CardGroup from '../../Components/CardGroup/CardGroup';
-import ModalComp from '../../Components/CommonComponents/Modal/Modal';
 
 export default class Home extends Component {
   constructor(props) {
@@ -144,7 +143,6 @@ export default class Home extends Component {
           this.state.filteredItems.length > 0 &&
           <CardGroup data={this.state.filteredItems} />
         }
-        <ModalComp/>
       </div>
     )
   }

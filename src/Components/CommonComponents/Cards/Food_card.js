@@ -1,8 +1,15 @@
-import React from "react";
+import React, { useState } from "react";
+import ModalComp from "../Modal/Modal";
 
 const Food_Card = (props) => {
+  const[openmodal,setOpenmodal]=useState(false)
+  const close=()=>{
+    setOpenmodal(false);
+  }
   return (
-    <div className="card m-2 customcardPadding" style={{ width: '18rem' }}>
+    <div className="card m-2 customcardPadding" style={{ width: '18rem' }} onClick={()=>setOpenmodal(true)}>
+      {openmodal==true&&<ModalComp openmodal={openmodal} close={close} imgPath={props.item.CardImgSrc} 
+      ingredients={props.item.ModalData.ItemIngredients}/>}
       <img src={props.item.CardImgSrc} className="card-img-top" alt="..." />
       <div className="card-body">
         <h5 className="card-title">{props.item.ItemName}</h5>

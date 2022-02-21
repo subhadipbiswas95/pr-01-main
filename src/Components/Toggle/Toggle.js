@@ -7,7 +7,7 @@ const Toggle = (props) => {
     const [checked, setChecked] = useState(true);
     const handleChange = (nextChecked) => {
         setChecked(nextChecked);
-        props.filterFoodItem(checked);
+        props.filterFoodItem(!checked);
     };
     return (
         <div className="row mt-3 mb-2 toggleSwitchSpcing">
